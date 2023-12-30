@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center"> NELZTACY demo Web App - Reaching you straight outta Technelogics Lab.</p>
+      <p class="text-center"> NELZTACY demo Web App - Reaching you straight outta Technelogics Lab. I am rich because i have true friends such as Shonubi... That's my G.</p>
   </div>
 </body>
 </html>
