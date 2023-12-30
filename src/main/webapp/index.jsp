@@ -194,28 +194,28 @@ window.$S={};$S.app_instances=[];$S.nav=[{"name":"\/home","uid":"f13f94f7-4db2-4
 {
   "@context": "https://schema.org",
   "@type": "website",
-  "name": "I'm Gary Sheng",
-  "description": "Technologist and civic entrepreneur. Speaker. Writer of America 2.0. Contributor to Gitcoin. Co-founder of Civics Unplugged and Dream DAO. Ex-Google software engineer. Duke and IMSA alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. "
+  "name": "I'm Nelson Oboh",
+  "description": "Technologist and DevOps enthusiast. Speaker. Writer of several IT books. CEO of Technelogics IT Services and Co-founder of Amplepay Fintech. Aspiring Google software/DevOps engineer. AAU alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about DevOps, and specializes in all aspects of the SDLC flow and impacting the IT ecosystem positively. "
 }
 
 </script>
 <meta content='website' property='og:type'>
-<meta content="I'm Gary Sheng" property='og:title'>
-<meta content='https://www.garysheng.com/' property='og:url'>
+<meta content="I'm Nelson Oboh" property='og:title'>
+<meta content='https://www.technelogicz.com/' property='og:url'>
 <meta content='https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/9621/Screen_Shot_2017-09-09_at_2.56.37_PM_g3qenv.png' property='og:image'>
-<meta content="I'm Gary Sheng" property='og:site_name'>
-<meta content='Technologist and civic entrepreneur. Speaker. Writer of America 2.0. Contributor to Gitcoin. Co-founder of Civics Unplugged and Dream DAO. Ex-Google software engineer. Duke and IMSA alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' property='og:description'>
-<meta content="I'm Gary Sheng" itemprop='name'>
-<meta content='Technologist and civic entrepreneur. Speaker. Writer of America 2.0. Contributor to Gitcoin. Co-founder of Civics Unplugged and Dream DAO. Ex-Google software engineer. Duke and IMSA alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' itemprop='description'>
+<meta content="I'm Nelson Oboh" property='og:site_name'>
+<meta content='"Technologist and DevOps enthusiast. Speaker. Writer of several IT books. CEO of Technelogics IT Services and Co-founder of Amplepay Fintech. Aspiring Google software/DevOps engineer. AAU alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' property='og:description'>
+<meta content="I'm Nelson Oboh" itemprop='name'>
+<meta content='"Technologist and DevOps enthusiast. Speaker. Writer of several IT books. CEO of Technelogics IT Services and Co-founder of Amplepay Fintech. Aspiring Google software/DevOps engineer. AAU alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' itemprop='description'>
 <meta content='https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/9621/Screen_Shot_2017-09-09_at_2.56.37_PM_g3qenv.png' itemprop='image'>
 <meta content='summary_large_image' name='twitter:card'>
-<meta content="I'm Gary Sheng" name='twitter:title'>
-<meta content='Technologist and civic entrepreneur. Speaker. Writer of America 2.0. Contributor to Gitcoin. Co-founder of Civics Unplugged and Dream DAO. Ex-Google software engineer. Duke and IMSA alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' name='twitter:description'>
+<meta content="I'm Nelson Oboh" name='twitter:title'>
+<meta content='"Technologist and DevOps enthusiast. Speaker. Writer of several IT books. CEO of Technelogics IT Services and Co-founder of Amplepay Fintech. Aspiring Google software/DevOps engineer. AAU alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' name='twitter:description'>
 <meta content='https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/9621/Screen_Shot_2017-09-09_at_2.56.37_PM_g3qenv.png' name='twitter:image'>
-<meta content='Technologist and civic entrepreneur. Speaker. Writer of America 2.0. Contributor to Gitcoin. Co-founder of Civics Unplugged and Dream DAO. Ex-Google software engineer. Duke and IMSA alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' name='description'>
+<meta content='"Technologist and DevOps enthusiast. Speaker. Writer of several IT books. CEO of Technelogics IT Services and Co-founder of Amplepay Fintech. Aspiring Google software/DevOps engineer. AAU alumnus. Co-founded Dancing Pineapple. Zuzalu Resident. Airchat Maxi. Forbes 30 Under 30. Passionate about hyperlocalism, American dynamism, and building the web3 x social impact ecosystem. ' name='description'>
 
 <meta name="support-helper" content="{&quot;permalink&quot;:&quot;gary&quot;,&quot;id&quot;:10504}" />
-<link rel="canonical" href="https://www.garysheng.com/" />
+<link rel="canonical" href="https://www.technelogicz.com/" />
 <script>
   if (!window.utils) window.utils = {}
   window.utils.getCookieByName = (name) => {
