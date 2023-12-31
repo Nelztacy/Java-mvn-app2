@@ -78,7 +78,7 @@
 <body>
 
     <header>
-        <img src="path/to/your/picture.jpg" alt="Nelson Oboh">
+        <img src="Nelzone.jpg" alt="Nelson Oboh">
         <h1>Nelson Oboh</h1>
         <p>DevOps/Linux Engineer</p>
     </header>
