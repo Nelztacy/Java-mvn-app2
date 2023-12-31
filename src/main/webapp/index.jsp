@@ -10,15 +10,15 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f0f0f0;
             color: #333;
         }
 
         header {
-            background-color: #333;
+            background-color: #4285f4;
             color: #fff;
             text-align: center;
-            padding: 1em 0;
+            padding: 2em 0;
         }
 
         header img {
@@ -27,18 +27,25 @@
             height: 150px;
             object-fit: cover;
             margin-bottom: 10px;
+            border: 5px solid #fff;
         }
 
         section {
             max-width: 800px;
             margin: 2em auto;
-            padding: 1em;
+            padding: 1.5em;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         h1, h2, h3 {
-            color: #333;
+            color: #4285f4;
+        }
+
+        h2 {
+            border-bottom: 2px solid #4285f4;
+            padding-bottom: 0.5em;
+            margin-bottom: 1.5em;
         }
 
         p {
@@ -52,7 +59,7 @@
         }
 
         ul li::before {
-            content: '\2022'; /* Add a bullet point using CSS pseudo-element */
+            content: '\2022';
             color: #4285f4;
             display: inline-block;
             width: 1em;
@@ -62,7 +69,7 @@
         footer {
             text-align: center;
             padding: 1em 0;
-            background-color: #333;
+            background-color: #4285f4;
             color: #fff;
         }
     </style>
