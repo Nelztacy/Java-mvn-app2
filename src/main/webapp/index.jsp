@@ -4,13 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Nelson Oboh - DevOps Engineer</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+            color: #333;
         }
 
         header {
@@ -28,17 +29,13 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
-        h1, h2 {
+        h1, h2, h3 {
             color: #333;
         }
 
         p {
             line-height: 1.6;
             color: #555;
-        }
-
-        .project {
-            margin-bottom: 2em;
         }
 
         footer {
@@ -53,38 +50,49 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
+        <h1>Nelson Oboh</h1>
+        <p>DevOps/Linux Engineer</p>
     </header>
 
     <section>
-        <h2>About Me</h2>
-        <p>Write a brief introduction about yourself.</p>
+        <h2>Professional Summary</h2>
+        <p>Seasoned DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
+        <!-- Add other key strengths and qualifications here -->
     </section>
 
     <section>
-        <h2>Projects</h2>
-
-        <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
-        </div>
-
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of Project 2.</p>
-        </div>
+        <h2>Education</h2>
+        <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo state, Nigeria (Sep 2011)</p>
+        <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
     </section>
 
     <section>
-        <h2>Contact</h2>
-        <p>Email: your.email@example.com</p>
-        <p>LinkedIn: linkedin.com/in/yourname</p>
-        <p>GitHub: github.com/yourusername</p>
+        <h2>Certifications</h2>
+        <p>AWS Certified Solutions Architect – Associate</p>
+        <p>CompTIA Linux +</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Ansible, Docker, Kubernetes</p>
+        <!-- Add other skills here -->
+    </section>
+
+    <section>
+        <h2>Professional Experience</h2>
+
+        <h3>Dell Technologies</h3>
+        <p><strong>Role:</strong> DevOps Engineer | <strong>Duration:</strong> Sep 2020 – Current</p>
+        <!-- Add responsibilities and achievements for Dell Technologies -->
+
+        <h3>Becton Dickinson</h3>
+        <p><strong>Role:</strong> DevOps Engineer/Linux Administrator | <strong>Duration:</strong> May 2018 – Sep 2020</p>
+        <!-- Add responsibilities and achievements for Becton Dickinson -->
+
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Name</p>
+        <p>&copy; 2023 Nelson Oboh</p>
     </footer>
 
 </body>
