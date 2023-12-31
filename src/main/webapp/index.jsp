@@ -21,6 +21,14 @@
             padding: 1em 0;
         }
 
+        header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
         section {
             max-width: 800px;
             margin: 2em auto;
@@ -38,6 +46,19 @@
             color: #555;
         }
 
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li::before {
+            content: '\2022'; /* Add a bullet point using CSS pseudo-element */
+            color: #4285f4;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
         footer {
             text-align: center;
             padding: 1em 0;
@@ -50,6 +71,7 @@
 <body>
 
     <header>
+        <img src="path/to/your/picture.jpg" alt="Nelson Oboh">
         <h1>Nelson Oboh</h1>
         <p>DevOps/Linux Engineer</p>
     </header>
