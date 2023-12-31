@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nelson Oboh - DevOps Engineer</title>
+    <title>NELSON OBOH - DevOps Engineer</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -103,7 +103,7 @@
 
     <section>
         <h2>Skills</h2>
-        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Ansible, Docker, Kubernetes</p>
+        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
         <!-- Add other skills here -->
     </section>
 
