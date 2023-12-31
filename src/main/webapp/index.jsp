@@ -1,66 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <meta name="description" content="Nelson's Portfolio - Specializing in DevOps and SDLC">
-
-    <!-- Open Graph meta tags for social media sharing -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="My Portfolio">
-    <meta property="og:url" content="https://www.example.com/my-portfolio">
-    <!-- Replace the image URL with your own -->
-    <meta property="og:image" content="https://example.com/path/to/your/image.jpg">
-    <meta property="og:site_name" content="My Portfolio">
-    <meta property="og:description" content="Explore Nelson's portfolio, specializing in DevOps and SDLC.">
-
+    <title>Your Name - Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
         }
-        h1 {
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
             color: #333;
         }
-        #achievements {
-            margin-top: 20px;
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .project {
+            margin-bottom: 2em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: #fff;
         }
     </style>
 </head>
+
 <body>
 
-    <h1>Nelson's Portfolio</h1>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
 
-    <!-- Input for uploading picture -->
-    <input type="file" id="profilePicture" accept="image/*">
-    <div id="pictureContainer"></div>
+    <section>
+        <h2>About Me</h2>
+        <p>Write a brief introduction about yourself.</p>
+    </section>
 
-    <!-- Professional Achievements -->
-    <div id="achievements">
-        <h2>Professional Specialization</h2>
-        <p>Nelson specializes in DevOps and SDLC.</p>
-    </div>
+    <section>
+        <h2>Projects</h2>
 
-    <!-- Script to display the uploaded picture -->
-    <script>
-        document.getElementById('profilePicture').addEventListener('change', function (event) {
-            var pictureContainer = document.getElementById('pictureContainer');
-            pictureContainer.innerHTML = ''; // Clear previous content
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of Project 1.</p>
+        </div>
 
-            var file = event.target.files[0];
-            if (file) {
-                var reader = new FileReader();
-                reader.onload = function (e) {
-                    var img = document.createElement('img');
-                    img.src = e.target.result;
-                    img.style.maxWidth = '100%';
-                    pictureContainer.appendChild(img);
-                };
-                reader.readAsDataURL(file);
-            }
-        });
-    </script>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description of Project 2.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourname</p>
+        <p>GitHub: github.com/yourusername</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
 
 </body>
+
 </html>
