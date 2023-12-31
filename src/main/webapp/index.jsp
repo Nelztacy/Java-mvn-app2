@@ -19,19 +19,20 @@
 </head>
 <body>
 
-    <h1>Your Name's Portfolio</h1>
+    <h1>Insert a personal photo that describes your life journey and add some comments</h1>
 
     <!-- Input for uploading picture -->
     <input type="file" id="profilePicture" accept="image/*">
     <div id="pictureContainer"></div>
 
-    <!-- Professional Achievements -->
-    <div id="achievements">
-        <h2>Professional Achievements</h2>
+    <!-- About this time in my life... -->
+    <div id="My life journey">
+        <h2>My life journey</h2>
         <ul>
-            <li>First Achievement</li>
-            <li>Second Achievement</li>
-            <li>Third Achievement</li>
+            <li>How it all started</li>
+            <li>The journey continues</li>
+            <li>Where i am today</li>
+            <li>My future goals and ambitions</li>
             <!-- Add more achievements as needed -->
         </ul>
     </div>
