@@ -83,11 +83,23 @@
 
         <h3>Dell Technologies</h3>
         <p><strong>Role:</strong> DevOps Engineer | <strong>Duration:</strong> Sep 2020 – Current</p>
-        <!-- Add responsibilities and achievements for Dell Technologies -->
+        <h4>Roles and Responsibilities:</h4>
+        <ul>
+            <li>Supporting multiple AWS cloud instances running Ubuntu and RHEL Linux distribution.</li>
+            <li>Broke down Entrain monolithic app into two, hosting the React-based client-side app on S3 serving it with CloudFront and the server side on AWS ECS cluster.</li>
+            <li>Designed, implemented, and maintained monitoring and observability solutions using Datadog for a complex microservices architecture.</li>
+            <!-- Add other responsibilities and achievements -->
+        </ul>
 
         <h3>Becton Dickinson</h3>
         <p><strong>Role:</strong> DevOps Engineer/Linux Administrator | <strong>Duration:</strong> May 2018 – Sep 2020</p>
-        <!-- Add responsibilities and achievements for Becton Dickinson -->
+        <h4>Roles and Responsibilities:</h4>
+        <ul>
+            <li>Designed, built, and maintained CI/CD pipelines using Azure DevOps and AWS Code Pipeline.</li>
+            <li>Implemented serverless architecture using AWS Lambda to dynamically scale resources based on workload, resulting in a 30% reduction in operational costs.</li>
+            <li>Used Ansible playbooks to automate the environment’s virtual and physical instance provisioning, configuration management, patching, and software deployment.</li>
+            <!-- Add other responsibilities and achievements -->
+        </ul>
 
     </section>
 
