@@ -79,7 +79,7 @@
 
     <header>
         <img src="Nelzone.jpg" alt="Nelson Oboh">
-        <h1>Nelson Oboh</h1>
+        <h3>Nelson Oboh</h3>
         <p>I am Nelson Oboh</p>
     </header>
 
