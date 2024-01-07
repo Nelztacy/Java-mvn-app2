@@ -1,5 +1,5 @@
-# mvn-hello-world-web-app
-A simple portfolio to showcase a working pipeline created using maven-archetype-webapp
+# web-app
+A demo portfolio to showcase a working pipeline created using maven-archetype-webapp
 
 ## Dependancies
 * git
@@ -8,3 +8,5 @@ A simple portfolio to showcase a working pipeline created using maven-archetype-
 
 ## CI-CD tool
 Jenkins
+
+$$$ Technelogics 2024 $$$
