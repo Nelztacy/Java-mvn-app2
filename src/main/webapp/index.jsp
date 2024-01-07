@@ -17,9 +17,8 @@
         header {
             background: url('path/to/your/background-image.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
             color: #fff;
-            text-align: right; /* Align to the right */
+            text-align: center; /* Center the text */
             padding: 2em 0;
-            font-weight: bold; /* Make text bold */
         }
 
         header img {
@@ -29,6 +28,7 @@
             object-fit: cover;
             margin-bottom: 10px;
             border: 5px solid #fff;
+            float: right; /* Align the image to the right */
         }
 
         section {
