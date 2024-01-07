@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NELSON OBOH - Super DevOps Engineer</title>
+    <title>NELSON OBOH - DevOps Engineer</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -85,7 +85,7 @@
 
     <section>
         <h2>Get to know me</h2>
-        <p>I'm a well seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
+        <p>I'm a well seasoned and spicy and sexy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
     </section>
 
