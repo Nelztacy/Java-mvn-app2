@@ -85,7 +85,7 @@
 
     <section>
         <h2>Get to know me</h2>
-        <p>I'm a well-seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
+        <p>I'm a well-seasoned and spicy-hot DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
     </section>
 
