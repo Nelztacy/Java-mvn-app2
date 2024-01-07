@@ -15,7 +15,7 @@
         }
 
         header {
-            background-color: #4285f4;
+            background: url('techy.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
             color: #fff;
             text-align: center;
             padding: 2em 0;
@@ -85,52 +85,11 @@
 
     <section>
         <h2>Get to know me</h2>
-        <p>I'm a well seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
+        <p>I'm a well-seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
     </section>
 
-    <section>
-        <h2>Education</h2>
-        <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo state, Nigeria (Sep 2011)</p>
-        <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
-    </section>
-
-    <section>
-        <h2>Certifications</h2>
-        <p>AWS Certified Solutions Architect – Associate</p>
-        <p>CompTIA Linux +</p>
-    </section>
-
-    <section>
-        <h2>Skills</h2>
-        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
-        <!-- Add other skills here -->
-    </section>
-
-    <section>
-        <h2>Professional Experience</h2>
-
-        <h3>Dell Technologies</h3>
-        <p><strong>Role:</strong> DevOps Engineer | <strong>Duration:</strong> Sep 2020 – Current</p>
-        <h4>Roles and Responsibilities:</h4>
-        <ul>
-            <li>Supporting multiple AWS cloud instances running Ubuntu and RHEL Linux distribution.</li>
-            <li>Broke down Entrain monolithic app into two, hosting the React-based client-side app on S3 serving it with CloudFront and the server side on AWS ECS cluster.</li>
-            <li>Designed, implemented, and maintained monitoring and observability solutions using Datadog for a complex microservices architecture.</li>
-            <!-- Add other responsibilities and achievements -->
-        </ul>
-
-        <h3>Becton Dickinson</h3>
-        <p><strong>Role:</strong> DevOps Engineer/Linux Administrator | <strong>Duration:</strong> May 2018 – Sep 2020</p>
-        <h4>Roles and Responsibilities:</h4>
-        <ul>
-            <li>Designed, built, and maintained CI/CD pipelines using Azure DevOps and AWS Code Pipeline.</li>
-            <li>Implemented serverless architecture using AWS Lambda to dynamically scale resources based on workload, resulting in a 30% reduction in operational costs.</li>
-            <li>Used Ansible playbooks to automate the environment’s virtual and physical instance provisioning, configuration management, patching, and software deployment.</li>
-            <!-- Add other responsibilities and achievements -->
-        </ul>
-
-    </section>
+    <!-- Rest of your content -->
 
     <footer>
         <p>&copy; 2023 Nelson Oboh</p>
