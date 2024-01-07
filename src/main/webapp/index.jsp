@@ -15,10 +15,11 @@
         }
 
         header {
-            background: url('techy.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
+            background: url('path/to/your/background-image.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
             color: #fff;
-            text-align: center;
+            text-align: right; /* Align to the right */
             padding: 2em 0;
+            font-weight: bold; /* Make text bold */
         }
 
         header img {
@@ -79,7 +80,7 @@
 
     <header>
         <img src="Nelzone.jpg" alt="Nelson Oboh">
-        <h3>Nelson Oboh</h3>
+        <h1>Nelson Oboh</h1>
         <p>I am Nelson Oboh</p>
     </header>
 
