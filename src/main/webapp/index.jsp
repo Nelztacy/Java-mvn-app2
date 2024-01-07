@@ -97,7 +97,7 @@
 
     <section>
         <h2>Certifications</h2>
-        <p>AWS Certified Solutions Architect – Associate</p>
+        <p>AWS Certified Solutions Architect Associate</p>
         <p>CompTIA Linux +</p>
     </section>
 
@@ -111,7 +111,7 @@
         <h2>Professional Experience</h2>
 
         <h3>Dell Technologies</h3>
-        <p><strong>Role:</strong> DevOps Engineer | <strong>Duration:</strong> Sep 2020 – Current</p>
+        <p><strong>Role:</strong> DevOps Engineer | <strong>Duration:</strong> Sep 2020 - Current</p>
         <h4>Roles and Responsibilities:</h4>
         <ul>
             <li>Supporting multiple AWS cloud instances running Ubuntu and RHEL Linux distribution.</li>
@@ -121,18 +121,18 @@
         </ul>
 
         <h3>Becton Dickinson</h3>
-        <p><strong>Role:</strong> DevOps Engineer/Linux Administrator | <strong>Duration:</strong> May 2018 – Sep 2020</p>
+        <p><strong>Role:</strong> DevOps Engineer/Linux Administrator | <strong>Duration:</strong> May 2018 - Sep 2020</p>
         <h4>Roles and Responsibilities:</h4>
         <ul>
             <li>Designed, built, and maintained CI/CD pipelines using Azure DevOps and AWS Code Pipeline.</li>
             <li>Implemented serverless architecture using AWS Lambda to dynamically scale resources based on workload, resulting in a 30% reduction in operational costs.</li>
-            <li>Used Ansible playbooks to automate the environment’s virtual and physical instance provisioning, configuration management, patching, and software deployment.</li
+            <li>Used Ansible playbooks to automate the environment's virtual and physical instance provisioning, configuration management, patching, and software deployment.</li>
         </ul>
 
     </section>
 
     <footer>
-        <p>&copy; 2023 Nelson Oboh</p>
+        <p>&copy; 2024 Nelson Oboh</p>
     </footer>
 
 </body>
