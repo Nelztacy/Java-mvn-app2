@@ -6,6 +6,96 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NELSON OBOH - DevOps Engineer</title>
     <link rel="stylesheet" href="style.css" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background: url('techy.jpg') center/cover no-repeat;
+            color: #fff;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-bottom: 10px;
+            border: 5px solid #fff;
+        }
+
+        .tagline {
+            color: #4285f4;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1.5em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1, h2, h3 {
+            color: #4285f4;
+        }
+
+        h2 {
+            border-bottom: 2px solid #4285f4;
+            padding-bottom: 0.5em;
+            margin-bottom: 1.5em;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li::before {
+            content: '\2022';
+            color: #4285f4;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        .education-list, .certifications-list, .skills {
+            padding-left: 20px;
+        }
+
+        .job-entry {
+            margin-bottom: 2em;
+        }
+
+        .responsibilities-list {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #4285f4;
+            color: #fff;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 
 <body>
