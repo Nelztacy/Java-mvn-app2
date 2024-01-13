@@ -37,6 +37,23 @@
             margin: 10px 0;
         }
 
+        nav {
+            background-color: #4285f4;
+            padding: 1em 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
         section {
             max-width: 800px;
             margin: 2em auto;
@@ -106,14 +123,22 @@
         <p class="tagline">DevOps Engineer</p>
     </header>
 
-    <section class="intro-section">
+    <nav>
+        <a href="#intro">Introduction</a>
+        <a href="#education">Education</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#skills">Skills</a>
+        <a href="#experience">Experience</a>
+    </nav>
+
+    <section id="intro" class="intro-section">
         <h2>Get to know me</h2>
 
         <p class="bio">I'm a seasoned DevOps Engineer with five years of experience, specializing in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions. I am passionate about contributing my skills to dynamic teams and achieving their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
     </section>
 
-    <section class="education-section">
+    <section id="education" class="education-section">
         <h2>Education</h2>
         <ul class="education-list">
             <li>Bachelor of Science in Computer Science, Ambrose Alli University, Edo state, Nigeria (Sep 2011)</li>
@@ -121,7 +146,7 @@
         </ul>
     </section>
 
-    <section class="certifications-section">
+    <section id="certifications" class="certifications-section">
         <h2>Certifications</h2>
         <ul class="certifications-list">
             <li>AWS Certified Solutions Architect Associate</li>
@@ -129,13 +154,13 @@
         </ul>
     </section>
 
-    <section class="skills-section">
+    <section id="skills" class="skills-section">
         <h2>Skills</h2>
         <p class="skills">DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
         <!-- Add other skills here -->
     </section>
 
-    <section class="experience-section">
+    <section id="experience" class="experience-section">
         <h2>Professional Experience</h2>
 
         <div class="job-entry">
