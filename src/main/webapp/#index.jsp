@@ -116,7 +116,7 @@
 
 <section>
     <h2>Education</h2>
-    <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo state, Nigeria (Sep 2011)</p>
+    <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo State, Nigeria (Sep 2011)</p>
     <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
 </section>
 
