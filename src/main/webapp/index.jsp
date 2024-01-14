@@ -15,11 +15,11 @@
         }
 
         header {
-            background: url('techy.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
+            background: url('techy.jpg') center/cover no-repeat;
             color: #fff;
             text-align: center;
             padding: 2em 0;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Set the box shadow properties */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         header img {
@@ -73,6 +73,15 @@
             background-color: #4285f4;
             color: #fff;
         }
+
+        /* Add the following styles for white background shadow */
+        section p:nth-child(4),
+        section p:nth-child(5) {
+            background-color: #fff;
+            display: inline-block;
+            padding: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
     </style>
 </head>
 
@@ -87,6 +96,7 @@
     <section>
         <h2>Get to know me</h2>
         <p>I'm a well-seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
+
         <!-- Add other key strengths and qualifications here -->
 
         <h2>Professional Experience</h2>
