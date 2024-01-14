@@ -77,12 +77,30 @@
 
 <body>
 
-    <header>
-        <img src="Nelzone.jpg" alt="Nelson Oboh">
-        <h1>Nelson Oboh</h1>
-        <p>I am Nelson Oboh</p>
-    </header>
-
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+          header {
+            background-color: #f0f0f0; /* Set the background color for the shadow */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Set the box shadow properties */
+            padding: 20px; /* Add some padding to make the shadow more visible */
+            text-align: center; /* Center align the content within the header */
+          }
+      
+          header img {
+            border-radius: 50%; /* Optional: Add border-radius to make the image circular */
+          }
+        </style>
+      </head>
+      <body>
+      
+        <header>
+          <img src="Nelzone.jpg" alt="Nelson Oboh">
+          <h1>Nelson Oboh</h1>
+          <p>I am Nelson Oboh</p>
+        </header>
+        
     <style>
         .code-line {
           background-color: #f0f0f0; /* Set the background color for the shadow */
@@ -91,7 +109,7 @@
           display: inline-block; /* Ensure the shadow only covers the code line */
         }
       </style>
-      
+
     <section>
         <h2>Get to know me</h2>
 
