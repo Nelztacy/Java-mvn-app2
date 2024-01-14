@@ -88,7 +88,27 @@
 
         <p>I'm a well-seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
+    </section>
 
+    <section>
+        <h2>Education</h2>
+        <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo state, Nigeria (Sep 2011)</p>
+        <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <p>AWS Certified Solutions Architect Associate</p>
+        <p>CompTIA Linux +</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
+        <!-- Add other skills here -->
+    </section>
+
+    <section>
         <h2>Professional Experience</h2>
 
         <h3>Dell Technologies</h3>
@@ -111,28 +131,6 @@
         </ul>
 
     </section>
-
-</section>
-
-<section>
-    <h2>Education</h2>
-    <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo State, Nigeria (Sep 2011)</p>
-    <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
-</section>
-
-<section>
-    <h2>Skills</h2>
-    <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
-    <!-- Add other skills here -->
-</section>
-
-<section>
-    <h2>Certifications</h2>
-    <p>AWS Certified Solutions Architect Associate</p>
-    <p>CompTIA Linux +</p>
-</section>
-
-<section>
 
     <footer>
         <p>&copy; 2024 Nelson Oboh</p>
