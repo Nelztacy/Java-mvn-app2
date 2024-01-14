@@ -19,6 +19,7 @@
             color: #fff;
             text-align: center;
             padding: 2em 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Set the box shadow properties */
         }
 
         header img {
@@ -77,42 +78,14 @@
 
 <body>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <style>
-          header {
-            background-color: #f0f0f0; /* Set the background color for the shadow */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Set the box shadow properties */
-            padding: 20px; /* Add some padding to make the shadow more visible */
-            text-align: center; /* Center align the content within the header */
-          }
-      
-          header img {
-            border-radius: 50%; /* Optional: Add border-radius to make the image circular */
-          }
-        </style>
-      </head>
-      <body>
-      
-        <header>
-          <img src="Nelzone.jpg" alt="Nelson Oboh">
-          <h1>Nelson Oboh</h1>
-          <p>I am Nelson Oboh</p>
-        </header>
-        
-    <style>
-        .code-line {
-          background-color: #f0f0f0; /* Set the background color for the shadow */
-          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Set the box shadow properties */
-          padding: 5px; /* Add some padding to make the shadow more visible */
-          display: inline-block; /* Ensure the shadow only covers the code line */
-        }
-      </style>
+    <header>
+        <img src="Nelzone.jpg" alt="Nelson Oboh">
+        <h1>Nelson Oboh</h1>
+        <p>I am Nelson Oboh</p>
+    </header>
 
     <section>
         <h2>Get to know me</h2>
-
         <p>I'm a well-seasoned and spicy DevOps Engineer with a proven track record of five years in architecting, implementing, and optimizing robust continuous integration, continuous delivery, and infrastructure automation solutions that meet business needs. Seeking opportunities to contribute my skills to a dynamic team and achieve their business goals.</p>
         <!-- Add other key strengths and qualifications here -->
 
@@ -139,31 +112,29 @@
 
     </section>
 
-</section>
+    <section>
+        <h2>Education</h2>
+        <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo State, Nigeria (Sep 2011)</p>
+        <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
+    </section>
 
-<section>
-    <h2>Education</h2>
-    <p>Bachelor of Science Computer Science, Ambrose Alli University, Edo State, Nigeria (Sep 2011)</p>
-    <p>Computer Networking and Troubleshooting, St. Angelos institute for Technology and Management Kalyan Mumbai, India</p>
-</section>
+    <section>
+        <h2>Skills</h2>
+        <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
+        <!-- Add other skills here -->
+    </section>
 
-<section>
-    <h2>Skills</h2>
-    <p>DevOps Tools: Jenkins, GitLab, CI/CD, Terraform, Ansible, Docker, Kubernetes</p>
-    <!-- Add other skills here -->
-</section>
+    <section>
+        <h2>Certifications</h2>
+        <p>AWS Certified Solutions Architect Associate</p>
+        <p>CompTIA Linux +</p>
+    </section>
 
-<section>
-    <h2>Certifications</h2>
-    <p>AWS Certified Solutions Architect Associate</p>
-    <p>CompTIA Linux +</p>
-</section>
-
-<section>
-
-    <footer>
-        <p>&copy; 2024 Nelson Oboh</p>
-    </footer>
+    <section>
+        <footer>
+            <p>&copy; 2024 Nelson Oboh</p>
+        </footer>
+    </section>
 
 </body>
 
