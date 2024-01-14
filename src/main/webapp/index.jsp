@@ -108,8 +108,6 @@
             padding: 1em 0;
             background-color: #4285f4;
             color: #fff;
-            position: absolute;
-            bottom: 0;
             width: 100%;
         }
     </style>
