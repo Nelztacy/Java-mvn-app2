@@ -83,6 +83,15 @@
         <p>I am Nelson Oboh</p>
     </header>
 
+    <style>
+        .code-line {
+          background-color: #f0f0f0; /* Set the background color for the shadow */
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Set the box shadow properties */
+          padding: 5px; /* Add some padding to make the shadow more visible */
+          display: inline-block; /* Ensure the shadow only covers the code line */
+        }
+      </style>
+      
     <section>
         <h2>Get to know me</h2>
 
