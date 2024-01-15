@@ -71,7 +71,7 @@
             text-align: center;
             padding: 1em 0;
             background-color: #4285f4;
-            color: #fff;
+            color: #0d0d0d;
         }
 
         /* Add the following styles for white background shadow */
